@@ -1,0 +1,6 @@
+{
+    "SendMessageTo": "Text 'Register' to",
+    "ValidPhoneNumber": "Please enter a valid phone number",
+    "ValidPin": "Please enter a valid pin",
+    "InvalidPhoneOrPin": "Please enter a valid phone number and/or pin"
+}

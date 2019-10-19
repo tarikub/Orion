@@ -1,0 +1,12 @@
+title=Orion ScreenSaver -  sms screen saver.
+major_version=1
+minor_version=1
+build_version=383
+mm_icon_focus_hd=pkg:/images/MainMenu_Icon_Center_HD.png
+mm_icon_focus_sd=pkg:/images/MainMenu_Icon_Center_SD43.png
+screensaver_title=Orion ScreenSaver -  a screen saver you can text photos to.
+splash_screen_sd=pkg:/images/splash_sd.jpg
+splash_screen_hd=pkg:/images/splash_hd.jpg
+splash_color=#000000
+splash_min_time=1000
+supports_input_launch=1

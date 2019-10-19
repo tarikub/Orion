@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<component name="slideShowScene" extends="Scene" >
+
+	<script type="text/brightscript" uri="pkg:/source/utils/timeUtil.brs" />
+  <script type="text/brightscript" uri="pkg:/source/utils/fileUtil.brs" />
+	<script type="text/brightscript" uri="pkg:/source/utils/msgUtil.brs" />
+	<script type="text/brightscript" uri="pkg:/source/utils/configUtil.brs" />
+	<script type="text/brightscript" uri="pkg:/source/utils/regUtil.brs" />
+	<script type="text/brightscript" uri="pkg:/components/slideShowScene.brs" />
+
+  <children>
+
+    <Rectangle id="recOpacity" color="0x0a0a0a"  />
+    <Label id="lblTime" text="" horizAlign="right" vertAlign="bottom" color="0xFFFFFFFF"/>
+    <Label id="lblDayofWeek" text="" horizAlign="right" vertAlign="bottom" color="0xFFFFFFFF"/>
+    <Label id="lblImageCounter" text="" horizAlign="right" vertAlign="bottom" color="0xFFFFFFFF"/>
+  </children>
+</component>

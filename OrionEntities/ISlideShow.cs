@@ -1,0 +1,6 @@
+﻿namespace OrionEntities
+{
+    interface ISlideShow
+    {
+    }
+}

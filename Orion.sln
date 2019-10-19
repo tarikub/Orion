@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Orion", "Orion\Orion.csproj", "{4E792945-E01B-4CA1-BCAA-7E8EAEA94F18}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrionEntities", "OrionEntities\OrionEntities.csproj", "{0C37E7D3-7F3E-4364-B1CA-37E45A6DE872}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrionTest", "OrionTest\OrionTest.csproj", "{BB94CED2-04BF-4238-8175-150CFB295252}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataLayer", "DataLayer", "{CD764431-B7A9-494E-8A7D-714C80D5E6D6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BusinessLayer", "BusinessLayer", "{00056611-191C-4FA1-8D2C-3B6FF12B29F8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PresentationLayer", "PresentationLayer", "{7A79D51C-99A8-4782-BDD2-EBDE7743CFAE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DB51085A-58B4-49BF-B48B-A8D5A5680ED0}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE.md = LICENSE.md
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Roku", "Roku\Roku.csproj", "{C15B3654-14D4-467B-A49D-50A162F92D0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E792945-E01B-4CA1-BCAA-7E8EAEA94F18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E792945-E01B-4CA1-BCAA-7E8EAEA94F18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E792945-E01B-4CA1-BCAA-7E8EAEA94F18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E792945-E01B-4CA1-BCAA-7E8EAEA94F18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C37E7D3-7F3E-4364-B1CA-37E45A6DE872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C37E7D3-7F3E-4364-B1CA-37E45A6DE872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C37E7D3-7F3E-4364-B1CA-37E45A6DE872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C37E7D3-7F3E-4364-B1CA-37E45A6DE872}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB94CED2-04BF-4238-8175-150CFB295252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB94CED2-04BF-4238-8175-150CFB295252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB94CED2-04BF-4238-8175-150CFB295252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB94CED2-04BF-4238-8175-150CFB295252}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C15B3654-14D4-467B-A49D-50A162F92D0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C15B3654-14D4-467B-A49D-50A162F92D0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C15B3654-14D4-467B-A49D-50A162F92D0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C15B3654-14D4-467B-A49D-50A162F92D0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4E792945-E01B-4CA1-BCAA-7E8EAEA94F18} = {00056611-191C-4FA1-8D2C-3B6FF12B29F8}
+		{0C37E7D3-7F3E-4364-B1CA-37E45A6DE872} = {CD764431-B7A9-494E-8A7D-714C80D5E6D6}
+		{BB94CED2-04BF-4238-8175-150CFB295252} = {00056611-191C-4FA1-8D2C-3B6FF12B29F8}
+		{C15B3654-14D4-467B-A49D-50A162F92D0E} = {7A79D51C-99A8-4782-BDD2-EBDE7743CFAE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2B9172B-302B-49EB-91D1-A3FF863EE86C}
+	EndGlobalSection
+EndGlobal
