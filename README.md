@@ -1,6 +1,6 @@
 # Serverless App from Design to Production: A Case Study 
 
-The goal of the project is to learn about serverless technologies and service orchestration using Azure Functions. To learn more about the process and design considerations for the product you can check the summary article on medium.com. A great byproduct of the learning process is a Roku channel app that is currently published in the Roku Channel store. 
+The goal of the project is to learn about serverless technologies and service orchestration using Azure Functions. To learn more about the process and design considerations for the product you can check the summary article on [medium.com](https://medium.com/@tarikub/serverless-app-from-design-to-production-a-case-study-2985ba1a1a40?source=friends_link&sk=f378691edd27c27362d8559c0002c497). A great byproduct of the learning process is a Roku channel app that is currently published in the Roku Channel store. 
 
 ## Getting Started
 
